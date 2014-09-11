@@ -1,0 +1,119 @@
+/*Button designs*/
+.LR_button{
+   border-top: 1px solid #96d1f8;
+   background: #65a9d7;
+   background: -webkit-gradient(linear, left top, left bottom, from(#3e779d), to(#65a9d7));
+   background: -webkit-linear-gradient(top, #3e779d, #65a9d7);
+   background: -moz-linear-gradient(top, #3e779d, #65a9d7);
+   background: -ms-linear-gradient(top, #3e779d, #65a9d7);
+   background: -o-linear-gradient(top, #3e779d, #65a9d7);
+   padding: 5.5px 11px;
+   -webkit-border-radius: 33px;
+   -moz-border-radius: 33px;
+   border-radius: 33px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: white;
+   font-size: 16px;
+   font-family: Georgia, serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.LR_button:hover {
+   border-top-color: #28597a;
+   background: #28597a;
+   color: #000000;
+   }
+.LR_button:active {
+   border-top-color: #1b435e;
+   background: #1b435e;
+   }
+   
+.Sbutton {
+   border-top: 1px solid #000000;
+   background: #690000;
+   background: -webkit-gradient(linear, left top, left bottom, from(#6e0000), to(#690000));
+   background: -webkit-linear-gradient(top, #6e0000, #690000);
+   background: -moz-linear-gradient(top, #6e0000, #690000);
+   background: -ms-linear-gradient(top, #6e0000, #690000);
+   background: -o-linear-gradient(top, #6e0000, #690000);
+   padding: 5px 10px;
+   -webkit-border-radius: 32px;
+   -moz-border-radius: 32px;
+   border-radius: 32px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #ffffff;
+   font-size: 16px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+.Sbutton:hover {
+   border-top-color: #01415e;
+   background: #01415e;
+   color: #ccc;
+   }
+.Sbutton:active {
+   border-top-color: #000000;
+   background: #000000;
+   }
+   
+#InfoButton {
+   border-top: 1px solid #000000;
+   background: #690000;
+   background: -webkit-gradient(linear, left top, left bottom, from(#6e0000), to(#690000));
+   background: -webkit-linear-gradient(top, #6e0000, #690000);
+   background: -moz-linear-gradient(top, #6e0000, #690000);
+   background: -ms-linear-gradient(top, #6e0000, #690000);
+   background: -o-linear-gradient(top, #6e0000, #690000);
+   padding: 5px 10px;
+   -webkit-border-radius: 32px;
+   -moz-border-radius: 32px;
+   border-radius: 32px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #ffffff;
+   font-size: 16px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   }
+#InfoButton:hover {
+   border-top-color: #01415e;
+   background: #01415e;
+   color: #ccc;
+   }
+#InfoButton:active {
+   border-top-color: #000000;
+   background: #000000;
+   }
+button{
+   border-top: 1px solid #000000;
+   background: #690000;
+   background: -webkit-gradient(linear, left top, left bottom, from(#6e0000), to(#690000));
+   background: -webkit-linear-gradient(top, #6e0000, #690000);
+   background: -moz-linear-gradient(top, #6e0000, #690000);
+   background: -ms-linear-gradient(top, #6e0000, #690000);
+   background: -o-linear-gradient(top, #6e0000, #690000);
+   padding: 5px 10px;
+   -webkit-border-radius: 32px;
+   -moz-border-radius: 32px;
+   border-radius: 32px;
+   -webkit-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   -moz-box-shadow: rgba(0,0,0,1) 0 1px 0;
+   box-shadow: rgba(0,0,0,1) 0 1px 0;
+   text-shadow: rgba(0,0,0,.4) 0 1px 0;
+   color: #ffffff;
+   font-size: 16px;
+   font-family: 'Lucida Grande', Helvetica, Arial, Sans-Serif;
+   text-decoration: none;
+   vertical-align: middle;
+   width:145;
+   }

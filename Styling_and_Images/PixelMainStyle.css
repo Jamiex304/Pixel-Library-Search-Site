@@ -1,0 +1,68 @@
+      /*Tab System Style*/
+	  body { font-size: 80%; font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;text-align:center; }
+      ul#tabs { list-style-type: none; margin: 30px 0 0 0; padding: 0 0 0.3em 0;}
+      ul#tabs li { display: inline; }
+      ul#tabs li a { color: #42454a; background-color: #F5FAFF; border: 5px groove #8E2B2B; border-bottom: none; padding: 0.3em;text-decoration: none;}
+      ul#tabs li a:hover { background-color: #F5FAFF; }
+      ul#tabs li a.selected { color: #000; background-color: #F5FAFF; font-weight: bold; padding: 0.7em 0.3em 0.38em 0.3em; }
+      div.tabContent { -moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:200;text-align:center;}
+      div.tabContent.hide { display: none;text-align:center;}
+	  
+	  /*Homepage Styleing*/
+	  #HomeBackground{background-repeat:repeat;background-size:100%;background-image:url('MainBackground.jpg');text-align:center;}
+	  #TopListWrapperMovie{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:205;text-align:center;}
+	  #TopListWrapperTV{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:205;text-align:center;display:none}
+	 
+	 
+	  /*Comments */
+	  
+	  #Comments{display: none;-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:830; height:500;overflow-y:auto;text-align:center;}
+	  #CommentArea{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:795; height:480;overflow-y:auto;text-align:center;}
+	  
+	  /*MovieResults*/
+	  #MovieTitleBar{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:50;text-align:center;overflow-y:auto;display:none}
+	  #MovieResults{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:2000;text-align:center;overflow-y:auto;display:none}
+	  #infoMovies { -moz-border-radius: 15px;border-radius: 15px;display: none; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:850; height:1350;}
+	  #MovieTitle{ -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em;margin-top: 5px; margin-bottom: 10px;background-color: #F5FAFF; width:830; height:50;}
+	  #MoviePoster{ -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:320; height:460;float:left;overflow-y:auto;}
+	  #MovieContent{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:480; height:460;float:right;text-align:left;overflow-y:auto;}
+	  #MovieReview{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:830; height:260;float:right;text-align:left;overflow-y:auto;}
+	  #MovieYotubeTrailer { -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:830; height:450;float:right;text-align:left;overflow-y:auto;text-align:center;}
+	  
+	  /*TVResults*/
+	  #TVTitleBar{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:50;text-align:center;overflow-y:auto;display:none}
+	  #TVResults{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:2000;text-align:center;overflow-y:auto;display:none}
+	  #infoTV { -moz-border-radius: 15px;border-radius: 15px;display: none; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:850; height:1260;}
+	  #TVTitle{ -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em;margin-top: 5px; margin-bottom: 10px;background-color: #F5FAFF; width:830; height:50;}
+	  #TVPoster{ -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:320; height:460;float:left;overflow-y:auto;}
+	  #TVContent{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:480; height:460;float:right;text-align:left;overflow-y:auto;}
+	  #TVReview{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:830; height:170;float:right;text-align:left;overflow-y:auto;}
+	  #TVYotubeTrailer { -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:830; height:450;float:right;text-align:left;overflow-y:auto;text-align:center;}
+	  
+	  /*GameResults*/
+	  #GameTitleBar{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:50;text-align:center;overflow-y:auto;display:none}
+	  #GameResults{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:670; height:2000;text-align:center;overflow-y:auto;display:none}
+	  #infoGame { -moz-border-radius: 15px;border-radius: 15px;display: none; border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:850; height:1740;}
+	  #GameTitle{ -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em;margin-top: 5px; margin-bottom: 10px;background-color: #F5FAFF; width:830; height:50;}
+	  #GamePoster{ -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:320; height:460;float:left;overflow-y:auto;}
+	  #GameContent{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF; width:480; height:460;float:right;text-align:left;overflow-y:auto;}
+	  #GameReview{-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:830; height:170;float:right;text-align:left;overflow-y:auto;}
+	  #GameYotubeTrailer { -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:830; height:450;float:right;text-align:left;overflow-y:auto;text-align:center;}
+	  #GameTwitch{ -moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; margin-top: 10px;background-color: #F5FAFF; width:830; height:450;float:right;text-align:left;overflow-y:auto;text-align:center;}
+	  #TwitchPlayer{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;float: left;overflow-y:auto;margin-right: 15px;background-image:url('Twitch_Background.png');background-size:620px 390px;background-repeat:no-repeat;}
+	  #StreamList{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;float: left;overflow-y:auto;margin-right: 15px;height:260;width:150;background-color: #F5FAFF;}
+	  #TitleWindow{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;float: left;overflow-y:auto;margin-right: 15px;margin-bottom: 15px;height:70;width:150;background-color: #F5FAFF;}
+	  
+	  /*Everything*/
+	  #pref1{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;width: 31%;height:1000px;float: left;margin-right: 10px;overflow-y:auto;background-color: #F5FAFF;margin-left:15px;}
+      #pref3 {-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;width: 31%;height:1000px;float: left;margin-right: 10px;overflow-y:auto;background-color: #F5FAFF;}
+      #pref2{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;width: 31%;height:1000px;float: left;overflow-y:auto;background-color: #F5FAFF;margin-right: 10px;}
+      #titleP1 {-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;width: 31%;height:50px;float: left;margin-right: 10px;text-align:center;margin-bottom: 15px;background-color: #F5FAFF;margin-left:15px;}
+      #titleP2 {-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;width: 31%;height:50px;float: left;margin-right: 10px;text-align:center;margin-bottom: 15px;background-color: #F5FAFF;}
+      #titleP3{-moz-border-radius: 15px;border-radius: 15px; border: 5px groove #8E2B2B; padding: 0.5em;width: 31%;height:50px;float: left;text-align:center;margin-bottom: 15px;background-color: #F5FAFF;margin-right: 10px;}
+	  #container{width: 1700px;height:1150px;display: none; }
+	  #pref1select{-moz-border-radius: 15px;border-radius: 15px; border: 2.5px groove #8E2B2B; width:150;margin-left:5px;}
+      #pref2select{-moz-border-radius: 15px;border-radius: 15px; border: 2.5px groove #8E2B2B; width:150;margin-left:5px;margin-right:5px;}
+      #pref3select{-moz-border-radius: 15px;border-radius: 15px; border: 2.5px groove #8E2B2B; width:150;margin-left;5px}
+	  
+	 

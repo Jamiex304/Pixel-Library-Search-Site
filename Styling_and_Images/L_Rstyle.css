@@ -1,0 +1,9 @@
+#Back{background-image:url('MainBackground.jpg');background-repeat:repeat;background-size:100%;text-align:center;}
+
+#main {-moz-border-radius: 15px;border-radius: 15px;border: 5px groove #8E2B2B; padding: 0.5em; background-color: #F5FAFF;text-align:center;width:500px;margin-top:85px;}
+
+.input{-moz-border-radius: 15px;border-radius: 15px;border: 2.5px groove #8E2B2B; padding: 0.5em;width:300px;}
+
+a {color: #000;}
+
+a:hover, a:active, a:visited {text-decoration: none;}

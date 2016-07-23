@@ -1,4 +1,8 @@
-Sample_Project_MediaSite-HTML5-CSS3-APIs
+MediaSite-HTML5-CSS3-5APIs-Javascript
 ========================================
 
-Full Seach Of Movies, tv shows and games site with trailers and live streams taken from twitch and youtube
+Full Seach engine for Movies, tv shows and games
+
+Trailers for tv shows and movie searches 
+
+Live Streams and Trailers for game searches 

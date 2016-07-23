@@ -9,8 +9,8 @@ Live Streams and Trailers for game searches
 
 Developed with the following API's
 
-OMDB
-Giantbomb
-Youtube 
-Twitch 
-MovieDatabase
+- OMDB
+- Giantbomb
+- Youtube 
+- Twitch 
+- MovieDatabase

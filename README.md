@@ -1,10 +1,12 @@
-Pixel Library: Built using:
+Pixel Library
+========================================
+
+Built using:
 -HTML5
 -CSS3
 -5 APIs
 -Javascript
 -JQuery
-========================================
 
 Seach engine for Movies, tv shows and games
 

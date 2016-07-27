@@ -1,4 +1,9 @@
-MediaSite-HTML5-CSS3-5APIs-Javascript
+Pixel Library: Built using:
+-HTML5
+-CSS3
+-5 APIs
+-Javascript
+-JQuery
 ========================================
 
 Seach engine for Movies, tv shows and games
